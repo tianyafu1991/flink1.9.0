@@ -139,12 +139,12 @@
 			<fileMode>0644</fileMode>
 		</file>
 
-		<file>
+		<!--<file>
 			<source>../flink-filesystems/flink-oss-fs-hadoop/target/flink-oss-fs-hadoop-${project.version}.jar</source>
 			<outputDirectory>opt/</outputDirectory>
 			<destName>flink-oss-fs-hadoop-${project.version}.jar</destName>
 			<fileMode>0644</fileMode>
-		</file>
+		</file>-->
 
 		<file>
 			<source>../flink-filesystems/flink-azure-fs-hadoop/target/flink-azure-fs-hadoop-${project.version}.jar</source>

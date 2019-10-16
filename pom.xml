@@ -83,9 +83,9 @@ under the License.
 		<module>flink-yarn</module>
 		<module>flink-yarn-tests</module>
 		<module>flink-fs-tests</module>
-		<module>flink-docs</module>
 		<module>flink-python</module>
-		<module>flink-ml-parent</module>
+		<!--<module>flink-docs</module>
+		<module>flink-ml-parent</module>-->
 	</modules>
 
 	<properties>
